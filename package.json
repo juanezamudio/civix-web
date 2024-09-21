@@ -85,7 +85,6 @@
     "zod-form-data": "^2.0.2"
   },
   "devDependencies": {
-    "@marblism/eslint-plugin": "^1.0.0",
     "@types/bcryptjs": "^2.4.6",
     "@types/eslint": "^8.56.2",
     "@types/mapbox__mapbox-sdk": "^0.14.0",
